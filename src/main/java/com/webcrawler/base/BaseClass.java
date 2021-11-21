@@ -6,5 +6,9 @@ public class BaseClass {
 		String uname="admin";
 		
 		String pwd="admin";
+		
+	String login = uname+pwd;
 	}
+	
+	
 }
