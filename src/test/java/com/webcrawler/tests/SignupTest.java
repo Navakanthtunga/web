@@ -1,5 +1,5 @@
 package com.webcrawler.tests;
 
-public class LoginPageTest {
+public class SignupTest {
 
 }
