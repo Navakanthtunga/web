@@ -5,5 +5,7 @@ public class CherryPage {
 		
 		System.out.println("This is a Cherry Pick class !");
 
+		int a=10;
+		
 	}
 }
