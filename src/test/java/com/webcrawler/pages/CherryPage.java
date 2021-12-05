@@ -7,5 +7,11 @@ public class CherryPage {
 
 		int a=10;
 		
+		
+		
+	}
+	
+	public void businesslayer(){
+		
 	}
 }
